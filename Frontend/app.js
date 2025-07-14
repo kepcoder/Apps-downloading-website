@@ -82,7 +82,7 @@ const courses = [
     id: "blender",
     title: "Blender course",
     description: "Learn to build responsive websites from scratch.",
-    image: "blender.jpg",
+    image: "Blender.jpg",
     link:'https://drive.google.com/drive/folders/1ff1KjCFJTVN5RfmNTERtC3H2w5g-lEuF'
   },
   {
