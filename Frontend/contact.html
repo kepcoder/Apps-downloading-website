@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Contact Us - AppXplorer</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Contact Us</h1>
+    <div class="menu-toggle" id="menu-toggle">&#9776;</div>
+    <nav id="navbar">
+      <a href="index.html">Home</a>
+      <a href="courses.html">Courses</a>
+      <a href="index.html">Apps</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <section class="contact-section">
+    <h2>Get in Touch</h2>
+    <p>If you have any questions or feedback, feel free to message us.</p>
+
+    <form class="contact-form">
+      <input type="text" placeholder="Your Name" required>
+      <input type="email" placeholder="Your Email" required>
+      <textarea placeholder="Your Message" rows="5" required></textarea>
+      <button type="submit">Send Message</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 AppXplorer. All rights reserved.</p>
+  </footer>
+
+  <script>
+    const toggleBtn = document.getElementById("menu-toggle");
+    const nav = document.getElementById("navbar");
+    toggleBtn.addEventListener("click", () => {
+      nav.classList.toggle("active");
+    });
+
+    document.querySelector(".contact-form").addEventListener("submit", function(e) {
+      e.preventDefault();
+      alert("Your message has been sent! (not really, form handling not added)");
+    });
+  </script>
+</body>
+</html>
