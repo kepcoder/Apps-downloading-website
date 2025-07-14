@@ -82,56 +82,56 @@ const courses = [
     id: "blender",
     title: "Blender course",
     description: "Learn to build responsive websites from scratch.",
-    image: "./public/images/blender.jpg",
+    image: "/images/blender.jpg",
     link:'https://drive.google.com/drive/folders/1ff1KjCFJTVN5RfmNTERtC3H2w5g-lEuF'
   },
   {
     id: "dropshipping",
     title: "dropshipping",
     description: "Master JS with real-world projects and challenges.",
-    image: "./images/dropshipping.jpg",
+    image: "/images/dropshipping.jpg",
     link:"https://drive.google.com/drive/folders/1Dkf0egkKsBeVPf5JbyOJ-3XCSJC1Boqk"
   },
   {
     id: "englishSpoken",
     title: "EnglishSpoken",
     description: "Dive into building modern SPAs using React.js",
-    image: "./images/englishspoken.jpg",
+    image: "/images/englishspoken.jpg",
     link:"https://drive.google.com/drive/folders/1ieeD6noUQ7E1TWsC9FADGzr8E4CGQzEH"
   },
   {
     id: "kgsPocketGk",
     title: "kgs Pocket GK",
     description: "Dive into building modern SPAs using React.js",
-    image: "./images/kgspocketgk.jpg",
+    image: "/images/kgspocketgk.jpg",
     link:"https://t.me/KHAN_POCKET_GK_OFFICIAL"
   },
   {
     id: "Metaads",
     title: "Meta Ads Full Course",
     description: "Dive into building modern SPAs using React.js",
-    image: "./images/metaAds_course.jpg",
+    image: "/images/metaAds_course.jpg",
     link:"https://drive.google.com/drive/folders/1qjhDz90mJX1-9atUorIUq6AGZA_qHcyI?usp=sharing"
   },
   {
     id: "Photoshop",
     title: "Photosop 2025",
     description: "Dive into building modern SPAs using React.js",
-    image: "./images/photoshop_course.jpg",
+    image: "/images/photoshop_course.jpg",
     link:"https://drive.google.com/drive/folders/1BoEzF7v7J5IsMhGRtzdf4_07T7ERzCC1"
   },  
   {
     id: "Automation",
     title: "Youtube Automation",
     description: "Dive into building modern SPAs using React.js",
-    image: "./images/youtube_automation.jpg",
+    image: "/images/youtube_automation.jpg",
     link:"https://drive.google.com/drive/folders/1JlaiPnAG3S8__2-npi5ZMm-cqwehf7V1"
   },
   {
     id: "flirting",
     title: "Flirting Like pro",
     description: "Dive into building modern SPAs using React.js",
-    image: "./images/flirt.jpg",
+    image: "/images/flirt.jpg",
     link:"https://drive.google.com/drive/folders/1IeTEoCzugYV2ltCsBJ1K7w-yZ8TPw2rT?usp=sharing"
   },
   {
@@ -145,21 +145,21 @@ const courses = [
     id: "D2c",
     title: "D2c with Arjun",
     description: "Dive into building modern SPAs using React.js",
-    image: "./images/D2c.jpg",
+    image: "/images/D2c.jpg",
     link:"https://drive.google.com/drive/folders/16bRcT-l-FYY5AiKszN16_to7ACyRqVqy?usp=sharing"
   },  
   {
     id: "videoEditing",
     title: "photos,Vsdco,Snapseed, Lightroom Course",
     description: "Dive into building modern SPAs using React.js",
-    image: "./images/videoediting.jpg",
+    image: "/images/videoediting.jpg",
     link:"https://drive.google.com/drive/folders/1yawEe0m8pVL7VXqNjL8B6mwLqNt9AThL"
   },
   {
     id: "PcEditing",
     title: "Professional Editing Course",
     description: "Dive into building modern SPAs using React.js",
-    image: "./images/pcediting.jpg",
+    image: "/images/pcediting.jpg",
     link:"https://drive.google.com/drive/folders/1NPdzxDIiBlY4X2JV7KIexurAUYaUo0JR"
   },    
   {
