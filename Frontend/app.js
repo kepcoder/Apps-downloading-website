@@ -71,7 +71,7 @@ const apps = [
         description: "Stream and download your favorite movies",
         image: "https://tse1.mm.bing.net/th/id/OIP.gkM2D3eMRjvJW-MmveRUEwAAAA?pid=Api&P=0&h=180",
         downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.04/Temp.Mail.apk"
-      },                    
+      },
 ];
 
 
@@ -203,16 +203,11 @@ if (coursesSection) {
         <img src="${app.image}" alt="${app.title}">
         <h3>${app.title}</h3>
         <p>${app.description}</p>
-        <a class="download-btn" href="apps.html?app=${app.id}">Download</a>
-      `;
+        <a class="download-btn" href="apps.html?app=${app.id}">Download</a>`;
       appsSection.appendChild(card);
     });
-    }
-
-
-
-
-
+    
+  }
 
 
 
@@ -236,7 +231,7 @@ if (coursesSection) {
           popup.style.display = "flex";
           setTimeout(() => {
             popup.style.display = "none";
-          }, 10000);
+          }, 15000);
         });
 
     }
