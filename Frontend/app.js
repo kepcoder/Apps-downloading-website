@@ -2,77 +2,116 @@
 //  Apps Data 
 const apps = [
       {
-        id: "spidyRwa",
-        title: "Spidy Rwa Apk",
-        description: "Advanced messaging app with privacy features",
-        image: "https://cdnx.jumpseller.com/yetiplantillas/image/40500692/resize/1200/1200?1696533142",
-        version:"v1.2",
-        downloadUrl:"https://github.com/kepcoder/Apps/releases/download/v1.0/SDV.RWA.apk"
-      },
-      {
         id: "Kgs",
         title: "Khan Global study",
-        description: "Optimize your phone for gaming performance",
+        description: "In This App You will get All courses of khan Sir | 1200+ Courses",
         image: "https://khanglobalstudies.com/Images/logos/logo.avif",
-        downloadUrl:""
+        downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.01/Khan.Global.Studies.apk"
       },
       {
         id: "vikramjeet",
         title: "RG vikramjeet pro",
-        description: "Stream and download your favorite movies",
+        description: "There are Lots of courses inside this app | for Login use Token and you will get token from my telegram",
         image: "https://play-lh.googleusercontent.com/BOFZ0bsP6EdXjix_VrSNoYl1L-ax5_3vSgtqfgscbIUDD_3qEuiDfzOIOslZJK5uPkk",
         downloadUrl:""
       },
       {
         id: "NextTopper",
         title: "Next Topper pro",
-        description: "Stream and download your favorite movies",
+        description: "All batches of Next Topper are available for free | Download and enjoy",
         image: "https://d2alr3mt323vql.cloudfront.net/0/admin_v1/application_management/clientlogo/7521371540_next_topper_logo.png",
         downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.1/NextTopper.apk"
       },
       {
         id: "Billa Tv",
         title: "Billa Tv pro",
-        description: "Stream and download your favorite movies",
+        description: "You can watch All disTv channel for free like sony, zeeTv, and more",
         image: "https://tse1.mm.bing.net/th/id/OIP.XAAIclKASeL302vldC-QUwHaHa?pid=Api&P=0&h=180",
         downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.09/BILLATV.Mod.apk"
       },
       {
         id: "SingaporeVpn",
         title: "Singapore Vpn pro",
-        description: "Stream and download your favorite movies",
+        description: "This Vpn have lots of countries with VIP access | Connect & disconnect in 1 click ",
         image: "https://play-lh.googleusercontent.com/1yzhGCgLZHGE3b15nXLon83IsyxfFRDHMaZqRkh47BzaOGbNUJVWZLZQpkd5LBS18eg",
         downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.08/Singapore_VPN.5.apk"
       },
       {
         id: "Hypic",
         title: "Hypic pro",
-        description: "Stream and download your favorite movies",
+        description: `This app has absolutely everything an image editing app has to offer. If you are less knowledgeable about image editing, you can use the simple tools that this application provides, but if you want more advanced editing, the application can also accommodate that through more advanced editing tools.
+Batch Editing: The app also allows you to edit multiple photos at the same time and easily apply the same edits and filters to multiple photos with just one tap.
+Photo Enhancement: The app provides tools so you can customize enhancements as you like, including adjusting sharpness, color, and other factors.`,
         image: "https://static-sg.winudf.com/wupload/xy/aprojectadmin/VUzf3tuJ.png",
         downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.07/HypicProlatest.apk"
       },  
       {
         id: "Capcut",
         title: "Capcut pro",
-        description: "Stream and download your favorite movies",
+        description:`CapCut’s interface gathers the necessary features for a user’s creativity, and when they access a certain part, the potential hidden in it will appear before their eyes. The variety creates unique creative styles, but this does not cause too much difficulty for users. Specifically, users always have templates that you can take advantage of. If you don’t know anything about editing and don’t waste time choosing, look at the preview products. To use those colors, press and start editing, like drawing a few basic textures to complete the picture.
+Simple and easy-to-use interface: Any user should try the application once because it is friendly to unskilled people.
+Available presets and templates: With pre-designed content, you just need to add a few details to have a complete product.`,
         image: "https://vectorseek.com/wp-content/uploads/2023/07/png-capcut-logo.png",
         downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.06/CapCut.PRO.Updated.apk"
       }, 
       {
-        id: "Crickfy",
-        title: "Crickfy Tv pro",
-        description: "Stream and download your favorite movies",
+        id: "Cricfy",
+        title: "Cricfy Tv pro",
+        description: "You can watch your TV channel including indian, pakistani, bangladesh, and specially for cricket you can watch all types of cricket live match fro free",
         image: "https://miro.medium.com/v2/resize:fit:512/1*XcYb7lON7DmhyIcWl58-zQ.png",
         downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.05/CRICFyTvPro-.apk"
       },
       {
         id: "Tempmail",
         title: "Unlimited Gamil with OTP",
-        description: "Stream and download your favorite movies",
+        description:`With this app, creating a new email address will become extremely simple and fast because you will not need to provide too much information to create it. Creating a new email address is considered almost instantaneous, and we can create any email address we want. The amount of how many emails you can create is not stated in the app because all emails you create will be deleted after they reach the allowed time limit for circulation. The biggest benefit will probably be that spammers or advertisers will send your email here and keep your personal email clean.
+
+Instant generation: you’ll never run out of your email because you can always generate more on the fly.
+Spam protection: Creating new emails can be very helpful in keeping your mailbox clean and away from hackers.`,
         image: "https://tse1.mm.bing.net/th/id/OIP.gkM2D3eMRjvJW-MmveRUEwAAAA?pid=Api&P=0&h=180",
         downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.04/Temp.Mail.apk"
       },
-];
+      {
+        id: "onlyfans",
+        title: "Only Fans Pro",
+        description:`You Watch All Paid Po** Videos for free, Piad Subscription videos unlocked`,
+        image: "https://logowik.com/content/uploads/images/onlyfans-social-rounded-blue7070.logowik.com.webp",
+        downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.14/OnlyFans.apk"
+      },
+      {
+        id: "kinemaster",
+        title: "Kinemaster pro",
+        description:`Ads/Services, Analytics Disabled
+Pro/Premium Version Unlocked
+Full Subscription Unlocked
+Full Shop/Assets Access Unlocked, Free Buy
+No Watermark, 4K Export Support
+All Functions Unlocked`,
+        image: "https://freepnglogo.com/images/all_img/1691823085kinemaster-logo-png-download.png",
+        downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.13/KineMaster.v7.7.2.35212.GP.Premium.apk"
+      },      
+      {
+        id: "Duolingo",
+        title: "DuoLingo Pro",
+        description:`The first thing that makes this app famous is its extremely fun and easy-to-digest learning method. You will learn a foreign language through lessons designed to look like games. Of course, you also understand that language is created from life. Games simulate the natural functioning of language. That’s why learning a foreign language with this app is easy for many people to approach initially. Although it will be difficult to provide advanced knowledge, the language knowledge learned here is really useful for daily life.
+
+Enjoyable and addicting lessons: Each lesson will be designed to be very short, just like a note. It will be easy to remember, accessible, and fun. Sometimes, a fun game will tax your memory more than hours of stressful studying.
+An exciting variety of activities: Gmae includes many unique activities, ​​such as matching games, speaking challenges, and quizzes, to teach you about learning foreign languages.
+Motivating rewards: The app features many cute characters to help you have fun while studying. They will reward you if you continue practicing and improving your foreign language skills.`,
+        image: "https://seeklogo.com/images/D/duolingo-logo-DB18C5E638-seeklogo.com.png",
+        downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.12/Duolingo.v6.39.3.Premium.apk"
+      },     
+      {
+        id: "shotcut",
+        title: "ShortCut Ai Editor Pro",
+        description:`ShotCut brings you a series of completely useful tools that can help you create an impressive and completely professional video. In other words, you can influence aspects of a video and add completely new content. In particular, users can make newly added elements completely compatible with existing content and arrange their positions completely reasonably. It can be seen that this is not a simple job, but the application still allows users to access and fully get acquainted with the most basic things. Then, advanced things will no longer be so confusing for users.
+
+Many advanced tools: Besides the basic features, chroma keys, transitions, and more are ready to appear in your productions.
+Add simple effects: Adding to videos is easy, and you’ll see its effect in a short preview.`,
+        image: "https://play-lh.googleusercontent.com/NGSkSoIlN_f7kFTvWxlmSdEhzz7vgV8mZt4sadO4OksVGRbWBx6ric61Em9SplBInf8",
+        downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.11/ShotCut_v2.17.1.apk"
+      },        
+];      
 
 
 
@@ -195,14 +234,13 @@ if (coursesSection) {
 
     const appsSection = document.getElementById("apps");
     if (appsSection){
-    apps.forEach(app => {
+     apps.forEach(app => {
       const card = document.createElement("div");
       card.className = "app-card";
       card.setAttribute("data-gsap", "");
       card.innerHTML = `
         <img src="${app.image}" alt="${app.title}">
         <h3>${app.title}</h3>
-        <p>${app.description}</p>
         <a class="download-btn" href="apps.html?app=${app.id}">Download</a>`;
       appsSection.appendChild(card);
     });
