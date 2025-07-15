@@ -236,7 +236,7 @@ if (coursesSection) {
           popup.style.display = "flex";
           setTimeout(() => {
             popup.style.display = "none";
-          }, 1000);
+          }, 10000);
         });
 
     }
