@@ -2,6 +2,13 @@
 //  Apps Data 
 const apps = [
       {
+        id: "SDV",
+        title: "SDV RWA",
+        description: "In This App You will get a lost of courses for 11th , 12th, 10th, enterance exams and many more | 120+ Courses | Get Token from Telegram",
+        image: "https://khanglobalstudies.com/Images/logos/logo.avif",
+        downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.01/Khan.Global.Studies.apk"
+      },
+      {
         id: "Kgs",
         title: "Khan Global study",
         description: "In This App You will get All courses of khan Sir | 1200+ Courses",
