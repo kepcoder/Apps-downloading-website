@@ -5,8 +5,8 @@ const apps = [
         id: "SDV",
         title: "SDV RWA",
         description: "In This App You will get a lost of courses for 11th , 12th, 10th, enterance exams and many more | 120+ Courses | Get Token from Telegram",
-        image: "https://khanglobalstudies.com/Images/logos/logo.avif",
-        downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.01/Khan.Global.Studies.apk"
+        image: "https://i.etsystatic.com/46221843/r/il/932c55/5390424471/il_1080xN.5390424471_cpnf.jpg",
+        downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.15/SDV.RWA.apk"
       },
       {
         id: "Kgs",
