@@ -147,6 +147,17 @@ Add simple effects: Adding to videos is easy, and you’ll see its effect in a s
         image: "https://cdn.freelogovectors.net/wp-content/uploads/2021/12/sonyliv-logo-freelogovectors.net_-400x400.png",
         downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.17/SonyLIV_Premium.apk"
       }, 
+      {
+        id: "ndtv-vnews",
+        title: "NDTV New ModApk",
+        description:`Users can find many useful programs and information from a large number of resources of the application. From there, they will be curious about the characteristics of the channels to make a more accurate choice.
+        Multi-Channel Streaming: The system often allows each person to watch channels from different regions. In particular, live programs are often not to be missed.
+        Real-Time Broadcasts: Anyone can watch the latest information when taking advantage of continuous TV and radio. Their characteristics are often related to continuous information updates.
+        Seamless Global Reach: Important events are often indispensable when you use this application. Therefore, notifications will be sent continuously and stimulate your curiosity.`,
+        image: "https://play-lh.googleusercontent.com/oMM2LtXhM8WWgMIVUz-oXWkaywRAnOJzCZBsYOpyuVg6yuWhKekeA-oXbzbTQKHgGuAa",
+        downloadUrl:"https://github.com/kepcoder/Apps/releases/download/v1.0/NDTV.News.v25.07.apk"
+      },
+
 
 ];      
 
