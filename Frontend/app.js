@@ -117,7 +117,37 @@ Many advanced tools: Besides the basic features, chroma keys, transitions, and m
 Add simple effects: Adding to videos is easy, and you’ll see its effect in a short preview.`,
         image: "https://play-lh.googleusercontent.com/NGSkSoIlN_f7kFTvWxlmSdEhzz7vgV8mZt4sadO4OksVGRbWBx6ric61Em9SplBInf8",
         downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.11/ShotCut_v2.17.1.apk"
-      },        
+      }, 
+      {
+        id: "Surway",
+        title: "Surway Surfers With Unlimited Money",
+        description:`Menu Mod
+        God Mode
+        No Gravity
+        No Coins Pickup
+        Auto Revive
+        Instant Lane Change
+        Complete All Achievement
+        Unlocked All Characters
+        Unlocked All Skins
+        Unlimited Resources
+        Unlimited PowerUp Time
+        Unlimited Jetpack Time
+        Unlimited Jump Height
+        Unlimited AirJump Height`,
+        image: "https://macmagazine.com.br/wp-content/uploads/2012/09/17-icone-subway-surfers.png",
+        downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.18/Subway.Surfers.Unlimited.Coins.Money.@FreeDirectMod.apk"
+      }, 
+      {
+        id: "Sonyliv",
+        title: "Sony Liv Premium ",
+        description:`Sony LIV opens a paradise for watching movies and sports shows in India, where users can find a large number of resources, which this application provides. The number of movies the country produces every year will completely impress you because of the quantity, and you can choose any trending movie to watch. In particular, watching movies is not too difficult to experience, and with just one glance, you will know what you have to do to find a good movie. The interface that the application provides is similar to the movie announcements that appear in cinemas, creating mystery and motivating users to choose a movie to try to watch.
+        Focus on featured content: The application supports and broadcasts famous programs from carefully selected channels.
+        Multiple languages ​​supported: Your favorite movies may be available in the languages ​​spoken in your region.`,
+        image: "https://cdn.freelogovectors.net/wp-content/uploads/2021/12/sonyliv-logo-freelogovectors.net_-400x400.png",
+        downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.17/SonyLIV_Premium.apk"
+      }, 
+
 ];      
 
 
