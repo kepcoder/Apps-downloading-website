@@ -9,6 +9,24 @@ const apps = [
         downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.15/SDV.RWA.apk"
       },
       {
+        id: "filmora",
+        title: "Filmora Pro",
+        description:`POWERFUL EDITING TOOLS
+If you need a powerful editing application that can help you work anywhere, the perfect choice is still FilmoraHD. This is an application that integrates the features that a content creator needs today to quickly make content more interesting. At the same time, a notable point when you use FilmoraHD is that you can edit right on your smartphone and upload its project file through a cloud system that the application provides. So, once you have a full set of resource files on both platforms, constant editing is possible to ensure your interesting ideas don’t disappear.
+
+Restructuring the content: Arranging parts of videos becomes easy if you know how to use the timeline in the most reasonable way.
+High-quality videos are produced: With commitments from the application, users can find 4K quality products.
+Do many things with content: The free-control, rotate, and copy/paste operations are unlimitedly usable.
+AUDIO EDITING CAPABILITIES
+Professionalism is reflected in FilmoraHD’s main interface, as it provides essential features that you can quickly recognize and use. At the same time, the most interesting thing now is the use of different layers for editing – something that is no longer new but creates millisecond precision. So you can arrange content to appear when you need it and ensure that the edited elements line up and form a finished product. If there are changes, just change one line, and the other lines will not be affected.
+
+Collection of songs or FX: To make the content realistic, it is absolutely necessary to insert a suitable sound including the voice.
+High or low sound: You should try to see if what you add is compatible with the video to make adjustments.
+Easy sound recognition: By letting the app listen to the song, you can use what is being played currently.`,
+        image: "https://edutic.up.edu.pe/wp-content/uploads/2021/11/Filmora_Logo_Edutic.png",
+        downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.19/Filmora.v14.8.22.Premium.apk"
+      },
+      {
         id: "Kgs",
         title: "Khan Global study",
         description: "In This App You will get All courses of khan Sir | 1200+ Courses",
@@ -21,13 +39,6 @@ const apps = [
         description: "There are Lots of courses inside this app | for Login use Token and you will get token from my telegram",
         image: "https://play-lh.googleusercontent.com/BOFZ0bsP6EdXjix_VrSNoYl1L-ax5_3vSgtqfgscbIUDD_3qEuiDfzOIOslZJK5uPkk",
         downloadUrl:""
-      },
-      {
-        id: "NextTopper",
-        title: "Next Topper pro",
-        description: "All batches of Next Topper are available for free | Download and enjoy",
-        image: "https://d2alr3mt323vql.cloudfront.net/0/admin_v1/application_management/clientlogo/7521371540_next_topper_logo.png",
-        downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.1/NextTopper.apk"
       },
       {
         id: "Billa Tv",
@@ -280,7 +291,7 @@ if (coursesSection) {
 }
 
 
-    const appsSection = document.getElementById("apps");
+const appsSection = document.getElementById("apps");
     if (appsSection){
      apps.forEach(app => {
       const card = document.createElement("div");
@@ -323,7 +334,45 @@ if (coursesSection) {
     }
 
 
+// Select search input and app container
+const searchInput = document.getElementById("search-input");
+
+// Render all apps
+function renderApps(filteredApps) {
+  appsSection.innerHTML = ""; // Clear before re-render
+
+  // Ads keep at top
+  const adHTML = `
+    <div class="ad-wrapper">
+      <p style="text-align: center;">Click on below image to get FREE 150rs 👇</p>
+      <script async="async" data-cfasync="false" src="//tonsilresolvedbark.com/289594380ac7603823ee06d0ad145b49/invoke.js"></script>
+      <div id="container-289594380ac7603823ee06d0ad145b49"></div>
+    </div>
+  `;
+  appsSection.innerHTML = adHTML;
+
+  filteredApps.forEach(app => {
+    const appCard = document.createElement("div");
+    appCard.className = "app-card";
+    appCard.innerHTML = `
+      <img src="${app.image}" alt="${app.title}" />
+      <h3>${app.title}</h3>
+      <p>${app.description.substring(0, 150)}...</p>
+      <a href="${app.downloadUrl}" target="_blank" class="download-btn">Download</a>
+    `;
+    appsSection.appendChild(appCard);
+  });
+}
 
 
+const searchInput2 = document.getElementById("search-input-2");
+
+searchInput.addEventListener("input", (e) => {
+  const searchTerm = e.target.value.toLowerCase();
+  const filteredApps = apps.filter((app) =>
+    app.title.toLowerCase().includes(searchTerm)
+  );
+  renderApps(filteredApps);
+});
 
 
