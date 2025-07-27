@@ -193,8 +193,6 @@ Animate in 3D Space: It is unique because users can stack multiple layers on top
         image: "https://img.freepik.com/premium-vector/abstract-modern-colorful-loop-rings-logo-design-template-universal-gradient-color-vector-logotype_708255-356.jpg",
         downloadUrl:"https://github.com/kepcoder/Apps/releases/download/untagged-e537ec84ea3f18194eed/Umagic.apk"
       },
-
-
 ];      
 
 
