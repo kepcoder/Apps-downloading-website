@@ -168,6 +168,31 @@ Add simple effects: Adding to videos is easy, and you’ll see its effect in a s
         image: "https://play-lh.googleusercontent.com/oMM2LtXhM8WWgMIVUz-oXWkaywRAnOJzCZBsYOpyuVg6yuWhKekeA-oXbzbTQKHgGuAa",
         downloadUrl:"https://github.com/kepcoder/Apps/releases/download/v1.0/NDTV.News.v25.07.apk"
       },
+      {
+        id: "Alight-Motion",
+        title: "Alight Motion Pro",
+        description:`SOPHISTICATED KEYFRAME-BASED ANIMATION CAPABILITIES
+Alight Motion has a very good keyframe recognition system that turns an image into a small moving video. It allows you to recognize every pixel on the frame. Thanks to that, you can easily create motion effects for static moments with just a few touches. In addition, if you want to do something seemingly complicated by combining many movements, the app can easily do it. You can do it as long as every movement is logical and creative.
+
+Animate Any Property: Users create complex animations with full photo control. You can time and create motions based on each frame, each 0.1 second.
+Keyframe Position, Scale, Rotation, Opacity: The control is completely up to you. Animate position, scale, rotation, opacity, and more to become more vivid under the user’s creativity. You can intervene anywhere you want to edit. It’s like a professional app for professionals.
+Craft Complex Animations: This app ensures users have the best experience—probably better than most apps on the market today. It allows for complex motions and even shows the character’s nuances in still images.
+ADVANCED CAMERA CONTROLS AND 3D EFFECTS FOR CINEMATIC VISUALS
+It even makes things more convenient by allowing people to tamper with your camera. This is proof that it makes a photo completely designed from pre-production to post-production. It’s much easier to edit a well-taken photo than a haphazardly taken one. The intervention in post-production will also be faster and more profound, and the final work will be unique and vivid.
+
+Add Depth with Cameras: Users create a certain depth for their photos with just a few basic steps. Simply put, a 2D photo is processed through a few professional effects to become a simulated 3D photo. You see, it has much more depth. Perspective and cinematic flair will be created using panning, zooming, and 3D cameras.
+Cinematic Effects: Additionally, to give your photo a movie-like vibe, you just need to use focus blur, fog, and depth of field. They create many effects that create the impression of watching a movie by a famous director.
+Animate in 3D Space: It is unique because users can stack multiple layers on top of each other to create a real 3D effect for their photo. The background and foreground will be separated, and the effect will only work on the subject you specify. It focuses on professionalism and looks like a video made by a professional`,
+        image: "https://logos-world.net/wp-content/uploads/2024/01/Alight-Motion-Logo.png",
+        downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.20/Alight.Motion.apk"
+      },
+      {
+        id: "unmagic",
+        title: "Unmagic pro",
+        description:`Lot of Ai tools are free inside like Ai face match, Face smooth, hair change, face change and may more`,
+        image: "https://img.freepik.com/premium-vector/abstract-modern-colorful-loop-rings-logo-design-template-universal-gradient-color-vector-logotype_708255-356.jpg",
+        downloadUrl:"https://github.com/kepcoder/Apps/releases/download/untagged-e537ec84ea3f18194eed/Umagic.apk"
+      },
 
 
 ];      
