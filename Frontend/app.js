@@ -193,6 +193,23 @@ Animate in 3D Space: It is unique because users can stack multiple layers on top
         image: "https://img.freepik.com/premium-vector/abstract-modern-colorful-loop-rings-logo-design-template-universal-gradient-color-vector-logotype_708255-356.jpg",
         downloadUrl:"https://github.com/kepcoder/Apps/releases/download/untagged-e537ec84ea3f18194eed/Umagic.apk"
       },
+      {
+        id: "Movies-hub",
+        title: "Movies Hub",
+        description:`ORIGINAL CONTENT
+Netflix is one of the movie-viewing platforms that appears very prominently on all different platforms, from smartphones to smart TVs that are currently installed. It is so famous that when you buy a new Android device, you will see traces of this application when you enter the app store. Therefore, there are always reasons for this application to make many users love it, such as providing unlimited experience, diverse content, and always guaranteed quality. If you think Netflix is no different from other platforms, you should try watching its content once!
+
+Collection of classic works: All the best qualities of world cinema are gathered in a single place.
+Potential actors: With extremely diverse content, it is understandable that you can find idol movies.
+Experience award-winning movies: Movies that have positive reviews or receive awards, such as Oscars, will all appear.
+OFFLINE VIEWING
+When you experience some content on Netflix, the application will give you fairly simple permission to rate it. You have the right to choose between liking or disliking and don’t think this is a normal feature. Specifically, the customer care feature is always operating, and when you click on the dislike button for certain content, the information will be saved, and when enough necessary data is gathered, the programs you do not like will be displayed. Invisibly, it will disappear from your sight.
+
+Internet data savings: You can watch the movies you like anywhere, even on the go.
+Downloaded favorite shows: If you are feeling fascinated with certain content, you should not stop experiencing it.`,
+        image: "https://dl.memuplay.com/new_market/img/com.paksoftinc.movieshub.icon.2024-07-10-17-51-41.png",
+        downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.21/MOVIES.HUB.v2.1.5d.apk"
+      },
 ];      
 
 
