@@ -210,6 +210,56 @@ Downloaded favorite shows: If you are feeling fascinated with certain content, y
         image: "https://dl.memuplay.com/new_market/img/com.paksoftinc.movieshub.icon.2024-07-10-17-51-41.png",
         downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.21/MOVIES.HUB.v2.1.5d.apk"
       },
+      {
+        id: "zeemo",
+        title: "Zeemo Pro - Ai Subtitle",
+        description:`PROGRAMMED AI-POWERED CAPTIONS
+In the event that you’re having inconveniences in making diverse captions, the framework can bolster you rapidly. The creation is dealt with precisely by AI, so you’ll be able rest guaranteed.
+
+Precise Subtitles: After recognizing your commands, the application can produce captions exact captions. Of course, they are regularly exact to the substance that shows up in your recordings.
+No Involvement Required: The application’s neighborly interface frequently empowers newcomers to get to the include rapidly. From there, they can get familiar with and begin investigating the accessible potential.
+Clump Altering: The app’s altering regularly influences numerous diverse angles. In case you’re altering one component at a time, the framework regularly recommends altering in clusters over time.
+MULTILINGUAL SUBTITLE BOLSTER
+Any client can effortlessly discover a substance that compares to the recordings they are observing. Of course, this does not require you to have outside dialect abilities since AI does everything.
+
+Worldwide Reach: You can quickly include subtitles in numerous distinctive dialects to reach numerous watchers. Of course, you’ll also consider utilizing it in parallel, depending on the current reason.
+Comprehensive Substance: In expansion to including subtitles, the app moreover permits you to undertake out highlights for individuals with disabilities. From there, they can still get your substance in the most suitable way.
+Look Boost: The app frequently meets your needs and makes the foremost reasonable recommendations. At the same time, they often guarantee that the quality of the current item is open to numerous individuals.`,
+        image: "https://assets-global.website-files.com/64f605bdfa749671fed117a9/653aa28f1690d104b8958f31_Zeemo%20AI.png",
+        downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.23/Zeemo.v4.12.1.Premium.apk"
+      },
+      {
+        id: "copiolet",
+        title: "Copiolet Premium",
+        description:`Copiolet pro i dont have to tell about this app, you all know what is this`,
+        image: "https://logos-world.net/wp-content/uploads/2023/10/Microsoft-Copilot-Logo.png",
+        downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.22/Copilot.Premium.v30.0.490456508.Modded.by.@Getmodpcs.apk"
+      },
+      {
+        id: "spotify",
+        title: "Spotify Premium",
+        description:`🔥Spotify playlist problem fix guide✅
+
+1) Note:How To Fix Spotify Login error:
+
+Just Reset password manually
+
+2) How to Fix Playlist not showing?
+
+Video Guide:
+
+https://youtu.be/czvoZlcQAcg
+
+Setp-1: Please Connect to USA or any VPN server where Spotify available (some free VPN mod at LITEAPKS.)
+
+step-2: Clear app data>go to Spotify website>Login> Now select view profile> Edit Profile> Now You can see country settings > Change to USA or VPN server u choosen if it shows> if not shows then wait sometime & Try again while u connected to VPN> now login to Spotify mod and it works.
+
+Please Use VPN while listening to music 1 or 2 days and later open Spotify official website without connecting to VPN and change country settings to your official one and it works normaly without VPN…
+
+Please share with your friends who use Spotify mod✅`,
+        image: "https://static.vecteezy.com/system/resources/previews/031/737/196/original/spotify-icon-spotify-social-media-logo-free-png.png",
+        downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.24/Spotify.v9.0.68.627.Clone.apk"
+      },
 ];      
 
 
