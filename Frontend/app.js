@@ -65,12 +65,12 @@ Photo Enhancement: The app provides tools so you can customize enhancements as y
       },  
       {
         id: "Capcut",
-        title: "Capcut pro",
+        title: "Capcut pro v14.9.0 latest",
         description:`CapCut’s interface gathers the necessary features for a user’s creativity, and when they access a certain part, the potential hidden in it will appear before their eyes. The variety creates unique creative styles, but this does not cause too much difficulty for users. Specifically, users always have templates that you can take advantage of. If you don’t know anything about editing and don’t waste time choosing, look at the preview products. To use those colors, press and start editing, like drawing a few basic textures to complete the picture.
 Simple and easy-to-use interface: Any user should try the application once because it is friendly to unskilled people.
 Available presets and templates: With pre-designed content, you just need to add a few details to have a complete product.`,
         image: "https://vectorseek.com/wp-content/uploads/2023/07/png-capcut-logo.png",
-        downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.06/CapCut.PRO.Updated.apk"
+        downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.26/CapCut.Pro.v14.9.0.apk"
       }, 
       {
         id: "Cricfy",
@@ -236,6 +236,13 @@ Look Boost: The app frequently meets your needs and makes the foremost reasonabl
         downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.22/Copilot.Premium.v30.0.490456508.Modded.by.@Getmodpcs.apk"
       },
       {
+        id: "gpay",
+        title: "Gpay Mod Apk For Prank",
+        description:`To copy similar interface as Gpay with sound effect, unlimited balance,check balance feature and many more `,
+        image: "https://static.vecteezy.com/system/resources/previews/017/221/776/non_2x/google-pay-logo-transparent-free-png.png",
+        downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.25/GPay.apk"
+      },
+      {
         id: "spotify",
         title: "Spotify Premium",
         description:`🔥Spotify playlist problem fix guide✅
@@ -259,6 +266,61 @@ Please Use VPN while listening to music 1 or 2 days and later open Spotify offic
 Please share with your friends who use Spotify mod✅`,
         image: "https://static.vecteezy.com/system/resources/previews/031/737/196/original/spotify-icon-spotify-social-media-logo-free-png.png",
         downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.24/Spotify.v9.0.68.627.Clone.apk"
+      },
+      {
+        id: "Investing-Pro",
+        title: "Investing Pro ",
+        description:` Search this App on Playstore and know the features, basically the app where you get all news, updates, research abut trading. This is Premium app with all features Unlock`,
+        image: "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/cb/fd/4a/cbfd4a39-d1d0-ae20-ab12-246f7436a10d/source/0x0ss-85.png",
+        downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.27/Investing.Pro.v6.72.apk"
+      },
+      {
+        id: "mxplayer",
+        title: "Mxplayer Premium ",
+        description:`You can watch All premium Episdoes, Films , Series are for free`,
+        image: "https://play-lh.googleusercontent.com/fTp32YyE-fi7cdG4V6dDR5OCLsx5bRhgMuCQLXroevnHiZWRY72Cxcseb6vlznTEDQ",
+        downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.28/MX.Player.Pro.v2.1.6.apk"
+      },
+      {
+        id: "vmake",
+        title: "Vmake Premium ",
+        description:`4K Video quality Enchancer and A MAGIC WAND FOR YOUR BACKGROUND
+Have you ever taken the perfect photo but wished for a better backdrop? With Vmake, you don’t just remove unwanted backgrounds; you can even make the AI whip up a fabulous new one. Just type in a description, and voila! From sunny beaches to glitzy urban skylines, the AI’s got your back…ground.
+
+EYES ON THE PRIZE WITH ELEMENT REPLACEMENT
+Objects in your photo not lining up with your aesthetic? Or perhaps that sneaky photobomber snuck in again? With the Element Replacement and Object Removal features, you can bid adieu to unwanted elements and say hello to content that makes your audience do a double-take.
+
+BRING THE BLURRY BACK TO LIFE
+Blurry photos and videos are like seeing the world after forgetting your glasses – not cool. But fear not! Vmake’s Upscale feature turns those low-res memories into HD masterpieces. Say goodbye to pixelated mishaps and hello to crystal-clear visuals.
+
+TEMPLATES & AI WRITER: LAZY BUT LIT
+For those moments when inspiration is playing hide and seek, Vmake’s Video Templates and AI Writer come to the rescue. Simply pick your photos, choose a template, and BOOM! Your video’s rolling. And with the AI Writer, even your captions will sound like they’re penned by Shakespeare… if he had an Instagram.
+
+ENHANCEMENTS GALORE`,
+        image: "https://tse2.mm.bing.net/th/id/OIP.YFGBEJ_JJtZexJP-yQSFiAHaHa?pid=Api&P=0&h=180",
+        downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.31/Vmake.apk"
+      },
+      {
+        id: "phonepe",
+        title: "Phonepe Mod Apk For Prank",
+        description:`Features:- Similar Interface as Original Phonepe, chek balance, Payment History, Qr code payment, original Sound effects and many more `,
+        image: "https://tse2.mm.bing.net/th/id/OIP.tuYalZe2SOHuvjtZkDDJ5gHaFf?pid=Api&P=0&h=180",
+        downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.32/PhonePe.apk"
+      },
+      {
+        id: "remini",
+        title: "Remini premium 3 Aug",
+        description:`Paid Features Unlocked
+                     Analytics, Ads Disabled
+                     Debug info Removed
+                     AOSP Compatible
+                     unnecessary Files Removed
+                     Duplicate graphics Removed
+                     PNG, Jpg,Webp etc compression applied
+                     Resources optimized/Compression Applied
+                     Only English Language Include`,
+        image: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/ef/65/28ef658f-90a0-9df3-3d01-460079e953c1/AppIcon-0-0-1x_U007epad-0-85-220.png/1200x630wa.png",
+        downloadUrl:"https://github.com/kepcoder/Apps/releases/download/V1.29/Remini.Premium.v3.7.3523.apk"
       },
 ];      
 
